@@ -1,0 +1,5 @@
+/Connect4/bin/Debug
+/.vs/Connect4/v16/*.suo
+/.vs/Connect4/v16/Server/sqlite3/*.lock
+/.vs/Connect4/v16/Server/sqlite3
+/Connect4/obj/Debug
